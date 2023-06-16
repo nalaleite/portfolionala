@@ -11,6 +11,7 @@ if(localStorage.getItem("last") == 'true'){
     localStorage.setItem("last", false)
 }
 
+
 function screenMode() {
     if (window.innerHeight === screen.height) {
         if(backgroundImg == 2){
