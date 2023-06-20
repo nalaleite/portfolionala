@@ -243,7 +243,7 @@ function historyy(){
 
             document.getElementById("window").style.left = "10vw"
             document.getElementById("window").style.top = "6vh"
-            document.getElementById("textDiv").innerHTML += `<a href="objetivos.html" class="button-56" role="button" style="left: 50vw;">Objetivos</a> <a href="projetos.html" class="button-56" role="button" style="left: 70vw;top: -8vh;">Projetos</a> <a href="https://www.instagram.com/milkiifactory/" class="button-56" role="button" style="top: -2vh;left: 50vw;">Redes sociais</a> <a href="pagina.html" class="button-56" role="button" style="top: -15vh;left: 70vw;">milkii factory</a>`
+            document.getElementById("textDiv").innerHTML += `<a href="objetivos.html" class="button-56" role="button" style="left: 50vw;">Objetivos</a> <a href="projetos.html" class="button-56" role="button" style="left: 70vw;top: -8vh;">Projetos</a> <a href="https://www.instagram.com/milkiifactory/" class="button-56" role="button" style="top: -2vh;left: 50vw;">Redes sociais</a> <a href="https://milkiii-factory.webnode.pt/" class="button-56" role="button" style="top: -15vh;left: 70vw;">milkii factory</a>`
         }
       }
 }
