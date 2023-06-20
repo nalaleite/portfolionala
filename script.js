@@ -210,7 +210,7 @@ function historyy(){
               if(margin > 30 && margin < 34){
                 
                 function writer(){
-                    let stringAboutMe = `Eu sou a Nana e hoje vou ser a vossa guia! Este é o portefólio pessoal da minha criadora,
+                    let stringAboutMe = `Eu sou a Nana e hoje vou ser a vossa guia! Este é o portfólio pessoal da minha criadora,
                 Nala Leite. A Nala nasceu em Fortaleza, CE, Brasil em 8 de fevereiro de 2002, agora residente
                 na cidade do Porto, em Portugal.
                 A sua paixão pela moda inicia-se bastante cedo com a enorme coleção de barbies da família e
